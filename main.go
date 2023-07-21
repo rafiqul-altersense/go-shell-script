@@ -13,7 +13,7 @@ var commands = []string{
 	"git add .",
 	"git commit -m",
 	"git push origin gitpush",
-	"git checkout master",
+	"git checkout main",
 	"git pull origin main",
 	"git merge gitpush",
 	"git push origin main",
